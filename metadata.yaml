@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33947'
     url: http://www.gutenberg.org/2009/agents/33947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24382#Vigorish
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-21'
 gutenberg_type: Text
